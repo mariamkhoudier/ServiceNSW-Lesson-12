@@ -1,0 +1,23 @@
+{
+  "name": "servicensw-lesson-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha",
+    "start": "node .\\src\\consoleApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamkhoudier/ServiceNSW-Lesson-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariamkhoudier/ServiceNSW-Lesson-12/issues"
+  },
+  "homepage": "https://github.com/mariamkhoudier/ServiceNSW-Lesson-12#readme",
+  "dependencies": {
+    "mocha": "^7.2.0"
+  }
+}
